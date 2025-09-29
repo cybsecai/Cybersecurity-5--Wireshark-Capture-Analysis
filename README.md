@@ -1,7 +1,7 @@
 # Cybersecurity-5--Wireshark-Capture-Analysis
 The objective was met by performing a one-minute live packet capture on the active network interface (eth0) within a Kali Linux virtual machine and conducting a protocol analysis.
 ## I. Executive Summary
-This report documents the successful completion of Task 5: Capture and Analyze Network Traffic Using Wireshark. The objective was met by performing a one-minute live packet capture on the active network interface (eth0) within a Kali Linux virtual machine and conducting a foundational protocol analysis.
+This report documents the successful completion Capture and Analyze Network Traffic Using Wireshark. The objective was met by performing a one-minute live packet capture on the active network interface (eth0) within a Kali Linux virtual machine and conducting a foundational protocol analysis.
 
 The capture file (Task5- Wireshark.pcapng) contains a diverse set of network activities, confirming the presence of four critical TCP/IP stack protocols: ICMP, DNS, TCP, and TLS. The ability to isolate and analyze these protocols demonstrates core competency in network forensics, troubleshooting, and low-level security monitoring.
 
